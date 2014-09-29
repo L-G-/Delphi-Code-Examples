@@ -1,4 +1,4 @@
-Dephi-Code-Examples by Leonid Glazyrin (L-G-)
+Delphi-Code-Examples by Leonid Glazyrin (L-G-)
 ===================
 
 DumbTreeView.pas - Visual component for Delphi 7, a custom TreeView, written from scratch 
