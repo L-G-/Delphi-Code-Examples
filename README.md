@@ -3,7 +3,8 @@ Delphi-Code-Examples by Leonid Glazyrin (L-G-)
 
 DumbTreeView.pas - Visual component for Delphi 7, a custom TreeView, written from scratch 
 (the component class is inherited from TCustomControl and does not uses Windows TreeView control from comctl32.dll).
-This single file contains all the source code needed to compile the component.
+dumbtreeview.res bitmap resources for the component
+This two files contains all the sources needed to compile the component and (optionally) to install it into Delphi IDE.
 
 TreeTest*.* (7 files) - Demo project for DumbTreeView (open TreeTest.dpr in Delphi)
 
